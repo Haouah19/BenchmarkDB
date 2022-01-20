@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60d72c81e288dbd66775994a"
+  },
+  "date": "2021-03-11T14:17:55.000+00:00",
+  "contenu": "Chers Apprentis, Nous aurons une Certification Qualopi mi Avril. l'Audit peut vérifier si Elia est bien rempli par les parties Prenantes de l'Apprentissage (Apprenti, TE, MA).Si vous pouviez remplir pour fin Mars le Suivi de l'Alternance 1 et alerter aussi votre TE et MA, pour qu'ils puissent aussi le compléter. N'oubliez pas aussi le Compte de rendu de visite (à remplir dans Elia), quand vous aurez organisé votre Point MA/TE. Merci et je compte sur vous. X.CRENN",
+  "destinataires": [
+    "ahmed.haouili@dauphine.eu",
+    "abdelouheb.mouhoubi@dauphine.eu"
+  ],
+  "statutArchivage": false,
+  "AuteurID": "11",
+  "reponses": [
+    {
+      "date": "2021-04-26T14:17:55.000+00:00",
+      "contenu": "",
+      "destinataires": [
+        "xavier.creen@cfa.fr"
+      ],
+      "statutArchivage": false,
+      "AuteurID": "1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60d72eb29e5a0b3957ef51d1"
+  },
+  "date": "2021-02-08T14:17:55.000+00:00",
+  "contenu": "Cher apprenti du CFA Afia, Cette communication s'adresse surtout pour vos Amis interessés par l'Apprentissage.Du 25 février au 5 mars 2021 se dérouleront les JPO virtuelles de l’Afia et de ses 20 écoles et universités partenaires, l’occasion idéale de vous informer sur votre poursuite d’études pour la rentrée 2021. Et en plus, en participant, vous pouvez tenter de gagner un des lots mis en jeu dans notre concours « Souriez à l’apprentissage ! » (PC, tablette, casque gaming, enceinte bluetooth ou souris gamer) et remporter 2h de coaching individualisé avec nos experts de l’Afia pour booster votre candidature (règlement accessible ici).",
+  "destinataires": [
+    "ahmed.haouili@dauphine.eu",
+    "abdelouheb.mouhoubi@dauphine.eu"
+  ],
+  "statutArchivage": false,
+  "AuteurID": "11"
+}]

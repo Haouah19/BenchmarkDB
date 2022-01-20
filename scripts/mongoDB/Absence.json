@@ -1,0 +1,23 @@
+[{
+  "_id": 1,
+  "absences": [
+    {
+      "date": "2021-04-14T08:30:55.000+00:00",
+      "module": "SQL, noSQL, newSQL",
+      "statutJustification": false
+    }
+  ]
+},{
+  "_id": 2,
+  "absences": [
+    {
+      "date": "2021-04-14T08:30:55.000+00:00",
+      "module": "SQL, noSQL, newSQL",
+      "statutJustification": true,
+      "Justification": {
+        "Raison": "Médicale",
+        "linkJustification": "~Justification.pdf"
+      }
+    }
+  ]
+}]

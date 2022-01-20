@@ -1,0 +1,21 @@
+# session
+
+==> Savoir si un utilisateur s'est connecté suivant des dates
+{connexions : { $elemMatch: {$lt: new Date('2021-06-24')} }}
+{connexions : { $elemMatch: {$gt: new Date('2021-06-23'), $lt: new Date('2021-06-27')} }}
+
+# formation
+
+==> Quelles sont les formations par apprentissage d’une université donnée ?
+{universiteID : 1, StatutApprentissage : true}
+==> Quelles sont les formations par apprentissage associées à un.e enseignant.e donné.e (i.e.
+les formations dans lesquelles il y a des étudiants dont l’enseignant.e est tuteur) ?
+{enseignants: { $all: [7] } , StatutApprentissage : true}
+==> 
+
+# Absences 
+
+==> Absences d'un étudiant donné
+{_id:2}
+
+

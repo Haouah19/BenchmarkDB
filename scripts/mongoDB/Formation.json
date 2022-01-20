@@ -1,0 +1,36 @@
+[{
+  "_id": "3",
+  "nom": "Informatique pour la finance",
+  "duree": "1 an",
+  "adresse": "Place du Maréchal de Lattre de Tassigny, 75016 Paris",
+  "universiteID": 1,
+  "enseignants": [
+    5,
+    8,
+    7
+  ],
+  "StatutApprentissage": true,
+  "niveau": "Bac+5"
+},{
+  "_id": "2",
+  "nom": "Informatique décisionnel",
+  "duree": "1 an",
+  "adresse": "Place du Maréchal de Lattre de Tassigny, 75016 Paris",
+  "universiteID": 1,
+  "enseignants": [
+    7
+  ],
+  "StatutApprentissage": true,
+  "niveau": "Bac+5"
+},{
+  "_id": "1",
+  "nom": "Ingénierie Statistique et Financière",
+  "duree": "1 an",
+  "adresse": "Place du Maréchal de Lattre de Tassigny, 75016 Paris",
+  "universiteID": 1,
+  "enseignants": [
+    5
+  ],
+  "StatutApprentissage": true,
+  "niveau": "Bac+5"
+}]
